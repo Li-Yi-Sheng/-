@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.1">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="考試系統" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="285" y="60" width="100" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry x="45" y="320" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry x="45" y="590" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-29" value="交卷" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-95" y="610" as="sourcePoint" />
+            <mxPoint x="45" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-30" value="交卷成功" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="45" y="750" as="sourcePoint" />
+            <mxPoint x="-95" y="750" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry x="-105" y="590" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="考試&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%AE%A1%E7%90%86%E5%93%A1%22%20style%3D%22swimlane%3Bhtml%3D1%3BstartSize%3D20%3Bcontainer%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2270%22%20y%3D%2240%22%20width%3D%22160%22%20height%3D%22750%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22ellipse%3Bhtml%3D1%3Bshape%3DendState%3BfillColor%3D%23000000%3BstrokeColor%3D%23ff0000%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%2265%22%20y%3D%2240%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%2220%22%20y%3D%2290%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="465" y="60" width="100" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-5">
+          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-5">
+          <mxGeometry x="45" y="310" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="M1viIr7hyppiMxx5E1qm-1" value="學生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1viIr7hyppiMxx5E1qm-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="T1gkEXzKR9zRd7qSMk6M-3" target="M1viIr7hyppiMxx5E1qm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="360" as="sourcePoint" />
+            <mxPoint x="184.5" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M1viIr7hyppiMxx5E1qm-8" value="考試答案" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="650" y="60" width="100" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="M1viIr7hyppiMxx5E1qm-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="M1viIr7hyppiMxx5E1qm-8">
+          <mxGeometry x="45" y="570" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-9" value="請求考試列表" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="150" as="sourcePoint" />
+            <mxPoint x="330" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-10" value="顯示考試列表" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="200" y="300" as="sourcePoint" />
+            <mxPoint x="190" y="290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-11" value="返回當前用戶的考試" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5">
+          <mxGeometry x="-0.0029" width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="290" as="sourcePoint" />
+            <mxPoint x="340" y="290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-12" value="獲取當前用戶的考試" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="150" as="sourcePoint" />
+            <mxPoint x="480" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-21" value="點擊進入考試" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="400" as="sourcePoint" />
+            <mxPoint x="330" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-22" value="從考試詳情中&lt;div&gt;獲取題目信息並顯示&lt;/div&gt;" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="540" as="sourcePoint" />
+            <mxPoint x="190" y="540" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-23" value="返回該條考試詳情" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0029" width="160" relative="1" as="geometry">
+            <mxPoint x="515" y="540" as="sourcePoint" />
+            <mxPoint x="340" y="540" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-24" value="獲取該條考試詳情" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="400" as="sourcePoint" />
+            <mxPoint x="510" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="T1gkEXzKR9zRd7qSMk6M-25" target="T1gkEXzKR9zRd7qSMk6M-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.5" y="420" as="sourcePoint" />
+            <mxPoint x="185" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="T1gkEXzKR9zRd7qSMk6M-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.5" y="650" as="sourcePoint" />
+            <mxPoint x="184.5" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="880" as="sourcePoint" />
+            <mxPoint x="184.5" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-40" value="保存作答訊息" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" target="M1viIr7hyppiMxx5E1qm-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="670" as="sourcePoint" />
+            <mxPoint x="480" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1gkEXzKR9zRd7qSMk6M-41" value="保存成功" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="692.84" y="810" as="sourcePoint" />
+            <mxPoint x="337.1635294117646" y="810" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
